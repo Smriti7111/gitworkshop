@@ -1,1 +1,1 @@
-example for merge conflict
+THis is example of merging changes to master.
